@@ -1,0 +1,19 @@
+add vufororia
+add ar cam , ad vuforia 
+add licence
+creat a target image , get target image from data base
+creat a button (pre lab) add button script, creat tag 
+creat game panel
+add grid layour group , makes the buttons fixed colums and give the size
+game field is the screen
+game controller has the scripts , drag and drop
+buttons are created by a loop with a name by the index.buttons are the cards
+get button choses the button according to index  
+buttons are added to start.
+after clicking the button is diabled and the image is shown.
+game puzzel makes pairs for the buttons which is randomized , shuffel func does that
+game controll creats the objects
+variables are used to check if the correct one was picked.
+after the right guess the card is diaspared by converting it to the backgorund image 
+the button num is used for comparision.
+check with puzzel match does the comparisoin
